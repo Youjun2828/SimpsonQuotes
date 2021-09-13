@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Youjun2828/SimpsonQuotes/static/css/main.97cc0686.chunk.css",
+    "main.js": "/Youjun2828/SimpsonQuotes/static/js/main.26cc206e.chunk.js",
+    "main.js.map": "/Youjun2828/SimpsonQuotes/static/js/main.26cc206e.chunk.js.map",
+    "runtime-main.js": "/Youjun2828/SimpsonQuotes/static/js/runtime-main.f032b48b.js",
+    "runtime-main.js.map": "/Youjun2828/SimpsonQuotes/static/js/runtime-main.f032b48b.js.map",
+    "static/js/2.401ee5a3.chunk.js": "/Youjun2828/SimpsonQuotes/static/js/2.401ee5a3.chunk.js",
+    "static/js/2.401ee5a3.chunk.js.map": "/Youjun2828/SimpsonQuotes/static/js/2.401ee5a3.chunk.js.map",
+    "static/js/3.5329c355.chunk.js": "/Youjun2828/SimpsonQuotes/static/js/3.5329c355.chunk.js",
+    "static/js/3.5329c355.chunk.js.map": "/Youjun2828/SimpsonQuotes/static/js/3.5329c355.chunk.js.map",
+    "index.html": "/Youjun2828/SimpsonQuotes/index.html",
+    "static/css/main.97cc0686.chunk.css.map": "/Youjun2828/SimpsonQuotes/static/css/main.97cc0686.chunk.css.map",
+    "static/js/2.401ee5a3.chunk.js.LICENSE.txt": "/Youjun2828/SimpsonQuotes/static/js/2.401ee5a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f032b48b.js",
+    "static/js/2.401ee5a3.chunk.js",
+    "static/css/main.97cc0686.chunk.css",
+    "static/js/main.26cc206e.chunk.js"
+  ]
+}
